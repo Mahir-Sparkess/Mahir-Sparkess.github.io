@@ -1,2 +1,3 @@
-# [Mahir-Sparkess.github.io](Mahir-Sparkess.github.io)
-Github webpage
+# Mahir-Sparkess.github.io
+
+[Github webpage](mahir-sparkess.github.io)
